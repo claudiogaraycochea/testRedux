@@ -1,0 +1,16 @@
+[
+  {
+    "superhero": "batman1",
+    "publisher": "DC Comics",
+    "alter_ego": "Bruce Wayne",
+    "first_apperance": "Detect",
+    "character": "Bruce Wayne"
+  },
+  {
+    "superhero": "Superman",
+    "publisher": "DC Comics",
+    "alter_ego": "Bruce Wayne",
+    "first_apperance": "Detect",
+    "character": "Bruce Wayne"
+  }
+]
